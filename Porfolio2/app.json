@@ -1,0 +1,12 @@
+{
+  "name": "Porfolio2",
+  "displayName": "Porfolio2",
+  "expo": {
+    "name": "Porfolio2",
+    "slug": "Porfolio2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
